@@ -18,6 +18,11 @@ package com.primas.common;
 
 import java.math.BigInteger;
 
+/**
+ * constants
+ * @author envin_xie
+ * @since 2018-07-04
+ */
 public class Constants {
 
     private static final BigInteger SECP256K1N = new BigInteger("fffffffffffffffffffffffffffffffebaaedce6af48a03bbfd25e8cd0364141", 16);
